@@ -5,7 +5,6 @@ const port = process.env.PORT || 8080;
 // Array of base URLs for random selection
 const CHECKOUT_URLS = [
   "https://salvevidashoje.site",
-  "https://campanhasevidas.site",
 ];
 
 const MAIN_URLS = [
