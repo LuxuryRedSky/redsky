@@ -10,7 +10,6 @@ const CHECKOUT_URLS = [
 
 const MAIN_URLS = [
   "https://www.salvevidashoje.site",
-  "https://www.campanhasevidas.site",
 ];
 
 // Improved random function with logging
