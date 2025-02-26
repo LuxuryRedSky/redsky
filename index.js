@@ -8,7 +8,7 @@ const CHECKOUT_URLS = [
 ];
 
 const MAIN_URLS = [
-  "https://www.ajudasolidariae.site",
+  "https://www.razoesparasalvar.space",
 ];
 
 // Improved random function with logging
